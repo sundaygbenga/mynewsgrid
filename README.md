@@ -1,7 +1,7 @@
 #News Grid Website
-As simple and modern wensite for updated information and articles.
+A simple and modern website for updated information and articles.
 
 #Features
-Updated news
-Valuable articles
+Updated News
+Valuable Articles
 Timely Info
