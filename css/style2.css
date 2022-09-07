@@ -55,8 +55,9 @@ img {
 
 .title-header {
 	display: flex;
-    flex-direction: column;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-
+	margin-top: 1rem;
+	padding: 0.5rem 2rem;
 }
