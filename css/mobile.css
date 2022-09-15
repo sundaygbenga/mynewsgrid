@@ -114,3 +114,12 @@
         margin-bottom: 1rem;
     } */
 }
+
+@media (max-height: 375px){
+    .page-container article {
+		padding-bottom: 60px;
+		overflow: hidden;
+        margin-left: 1.5rem;
+	}
+    
+}
